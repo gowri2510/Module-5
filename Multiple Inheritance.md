@@ -27,7 +27,6 @@ To write a Python program to get the name, attendance, and ID of a student and c
 10. Terminate the program.
 
 ---
-
 ### PROGRAM
 ```
 # Reg.No-212223060072
@@ -41,12 +40,9 @@ class Demo:
 
 obj = Demo()
 print(obj.status)
-
-
 ```
 ### OUTPUT
 <img width="555" height="148" alt="{B6F344BC-BA1D-4207-BCCE-A9F71E12E015}" src="https://github.com/user-attachments/assets/91d6e9f0-7e9a-4e8f-a807-e271b265470b" />
-
 ### RESULT
 Thus the program that demonstrates the use of a destructor method (del) in a class to indicate when an object is destroyed has been implemented and executed successfully
 
